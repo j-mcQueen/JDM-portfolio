@@ -174,6 +174,8 @@ const desktopOnly = function() {
         }
         
         showContact();
+
+        // Idea for condensing the tooltip functions - make 2 arrays: 1 for the targets and 1 for the subs. Loop through each array on hover of the target, and assign the appropriate variable to the event listeners and style properties.
     }
 }
 
