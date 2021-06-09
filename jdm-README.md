@@ -1,1 +1,0 @@
-This is a collection of the files that comprise Jack D. McQueen's portfolio website. As of committing this readme file (May 2021), the project is unfinished and under development still - the files will be updated as and when changes are made. I have chosen to push the files now to familiarise myself with Github and to gain practice using Git.
